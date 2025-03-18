@@ -7,4 +7,5 @@ b=int(input("Kérek egy másik egész számot:"))
 print(f"Összegük: {a+b}")
 for i in range(1,4):
     print("Nemsoká vége a dalnak!")
+print("Ez itt a vége................")
 
